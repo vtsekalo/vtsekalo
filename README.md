@@ -1,10 +1,10 @@
-# Hi, I'm Vtsekalo 👋
+# Hi, I'm Bulat 👋
 
 ## Frontend Developer
 
-I build modern web applications with React, TypeScript and advanced frontend technologies.
+I build modern web applications with React, Next.js and TypeScript.
 
-I focus on creating clean interfaces, scalable architectures and interactive user experiences.
+I focus on creating scalable frontend architectures, clean interfaces and production-ready user experiences.
 
 ---
 
@@ -13,6 +13,7 @@ I focus on creating clean interfaces, scalable architectures and interactive use
 ### Frontend
 
 - React
+- Next.js
 - TypeScript
 - JavaScript
 - HTML5
@@ -21,6 +22,8 @@ I focus on creating clean interfaces, scalable architectures and interactive use
 
 ### State Management
 
+- Redux Toolkit
+- RTK Query
 - Zustand
 
 ### UI
@@ -41,10 +44,75 @@ I focus on creating clean interfaces, scalable architectures and interactive use
 - GitHub
 - ESLint
 - Prettier
+- Vercel
 
 ---
 
 # 🚀 Featured Projects
+
+
+## 🚀 TeamFlow
+
+Modern SaaS project management platform.
+
+Features:
+
+- Dashboard analytics
+- Project management
+- Task management
+- Authentication flow
+- Role-based permissions
+- Responsive interface
+
+Stack:
+
+Next.js • React • TypeScript • Material UI • Redux Toolkit
+
+Live Demo:
+https://teamflow-indol.vercel.app
+
+Repository:
+https://github.com/vtsekalo/teamflow
+
+
+---
+
+## 📊 SeverMarket Analytics
+
+E-commerce analytics dashboard.
+
+Features:
+
+- Data visualization
+- Business metrics
+- Dashboard interfaces
+- Scalable frontend structure
+
+Stack:
+
+Next.js • React • TypeScript
+
+
+---
+
+## ⚽ Sport Unite
+
+Commercial sports platform.
+
+Frontend development experience:
+
+- Feature implementation
+- UI improvements
+- Component development
+- Working with existing codebase
+- Refactoring and maintaining application features
+
+Stack:
+
+React • TypeScript
+
+
+---
 
 ## 🏠 3D Real Estate Viewer
 
@@ -56,7 +124,6 @@ Features:
 - 3D room selection
 - Floor plan visualization
 - Responsive interface
-- Procedural Three.js scene
 
 Stack:
 
@@ -68,31 +135,17 @@ https://3d-real-estate-viewer.vercel.app
 Repository:
 https://github.com/vtsekalo/3D-Real-Estate-Viewer
 
----
-
-## ⚽ Sport Unite
-
-Sports community application built with modern frontend technologies.
-
-Features:
-
-- Modern UI
-- Component-based architecture
-- Interactive interfaces
-
-Stack:
-
-React • TypeScript
 
 ---
 
-## 📚 Currently learning
+## 📚 Currently improving
 
 - Advanced TypeScript
 - Frontend Architecture
-- WebGL
-- Performance optimization
+- Web Performance
 - Modern React patterns
+- Scalable application design
+
 
 ---
 
