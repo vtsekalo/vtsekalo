@@ -1,10 +1,29 @@
 # Hi, I'm Bulat 👋
 
-## Frontend Developer
+## Frontend Engineer
 
-I build modern web applications with React, Next.js and TypeScript.
+Frontend Developer with **6+ years of commercial experience** building production web applications with React and TypeScript.
 
-I focus on creating scalable frontend architectures, clean interfaces and production-ready user experiences.
+I specialize in scalable frontend architecture, complex user interfaces, API integrations and clean component-driven development.
+
+---
+
+## 💼 Experience
+
+6+ years of experience developing frontend applications.
+
+Main experience:
+- Production React applications
+- Complex user flows
+- SPA architecture
+- Design systems and reusable components
+- REST API integrations
+- Code quality and frontend architecture improvements
+
+Domain experience:
+- EdTech platforms
+- SaaS applications
+- Business dashboards
 
 ---
 
@@ -26,11 +45,12 @@ I focus on creating scalable frontend architectures, clean interfaces and produc
 - RTK Query
 - Zustand
 
-### UI
+### Architecture & UI
 
+- Feature-Sliced Design
+- Component Architecture
 - Material UI
 - Responsive Design
-- Component Architecture
 
 ### 3D / Graphics
 
