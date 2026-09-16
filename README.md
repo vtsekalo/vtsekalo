@@ -12,6 +12,8 @@ I specialize in scalable frontend architecture, complex user interfaces, API int
 
 6+ years of experience developing frontend applications.
 
+Most of my production work is in private company repositories and cannot be publicly shared.
+
 Main experience:
 - Production React applications
 - Complex user flows
